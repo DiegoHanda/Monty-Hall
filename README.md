@@ -12,3 +12,4 @@
      - `0`, se mostrará una de las puerta que no contiene el auto, y se consultará si quiere cambiar de puerta.
        - Ingresar y o 1 si quiere cambiar de puerta.
        - Ingresar n o 0 si no quiere cambiar de puerta.
+4. Se mostrará la puerta correcta y si ganó o perdió.
