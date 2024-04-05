@@ -8,7 +8,7 @@ def monty_hall():
         chosen_door = input("Elige una puerta (1, 2, o 3): ")
         print("Has elegido la puerta " + chosen_door)
     else:
-        answer = bool(answer)
+        answer = bool(answer == "True")
         simulate_monty_hall(answer)
         exit()
    
